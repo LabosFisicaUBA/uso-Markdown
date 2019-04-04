@@ -3,10 +3,18 @@
 <!-- TOC -->
 
 - [Tomar notas con Markdown](#tomar-notas-con-markdown)
+  - [Tabla de contenidos (TOC)](#tabla-de-contenidos-toc)
   - [Ecuaciones](#ecuaciones)
   - [Importar archivos](#importar-archivos)
 
 <!-- /TOC -->
+
+## Tabla de contenidos (TOC)
+
+La tabla de contenidos se inserta fácilmente en forma  
+`<!-- TOC -->` 
+`- [Tomar notas con Markdown](#tomar-notas-con-markdown)`
+`<!-- TOC -->`
 acá puse sólo un ejemplo de una línea, pero en el código original (arriba de todo) hay un ejemplo completo de esta página.
 Otra forma es bajar herramientas de Markdown, si usas el [markdown extension pack](https://marketplace.visualstudio.com/items?itemName=bat67.markdown-extension-pack#review-details) ya lo tenés, click derecho y seleccionás `Markdown TOC: insert/update`, te la va insertar en el lugar que lo hagas. Para hacer el update hacés lo mismo.
 
@@ -31,7 +39,7 @@ Con el Markdown all in one es sencillo meter figuras, puede ser de carpetas en o
 
 Y te sale la imagen: 
 
-@import "/figures/prueba dibujo 01.jpg"
+@import "/figures/prueba dibujo 01.jpg" 
 
 
 
