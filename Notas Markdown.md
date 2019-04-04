@@ -20,8 +20,8 @@ No me queda claro si esto puede generar otros problemas, ya que se está modific
 Para meter ecuaciones simplemente se usa latex
 `$$ \alpha = \frac{e^2}{4\pi\varepsilon_0\hbar c} = \frac{\mu_0 e^2 c}{4 \pi \hbar} = \frac{c \mu_0}{2 R_K} = \frac{1}{137} $$` :
 
-$ \alpha = \frac{e^2}{4\pi\varepsilon_0\hbar c} = \frac{\mu_0 e^2 c}{4 \pi \hbar} = \frac{c \mu_0}{2 R_K} = \frac{1}{137}
-$
+$$ \alpha = \frac{e^2}{4\pi\varepsilon_0\hbar c} = \frac{\mu_0 e^2 c}{4 \pi \hbar} = \frac{c \mu_0}{2 R_K} = \frac{1}{137}
+$$
 
 ## Importar archivos
 
